@@ -1,1 +1,1 @@
-# Logistic_Regression(多クラス)
+# Logistic_Regression-multi
